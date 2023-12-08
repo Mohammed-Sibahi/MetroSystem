@@ -1,0 +1,7 @@
+C:\Users\sibah\source\repos\MetroSystem\MetroSystem\bin\Debug\MetroSystem.exe.config
+C:\Users\sibah\source\repos\MetroSystem\MetroSystem\bin\Debug\MetroSystem.exe
+C:\Users\sibah\source\repos\MetroSystem\MetroSystem\bin\Debug\MetroSystem.pdb
+C:\Users\sibah\source\repos\MetroSystem\MetroSystem\obj\Debug\MetroSystem.csproj.AssemblyReference.cache
+C:\Users\sibah\source\repos\MetroSystem\MetroSystem\obj\Debug\MetroSystem.csproj.CoreCompileInputs.cache
+C:\Users\sibah\source\repos\MetroSystem\MetroSystem\obj\Debug\MetroSystem.exe
+C:\Users\sibah\source\repos\MetroSystem\MetroSystem\obj\Debug\MetroSystem.pdb
