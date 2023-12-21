@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34310.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetroSystem", "MetroSystem.csproj", "{F718F9C8-3C35-4FA9-9F67-9BAA81FCB33D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DubizzleSystem", "DubizzleSystem\DubizzleSystem.csproj", "{BF7AC721-BF0A-41E9-800F-B6B16FAED522}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F718F9C8-3C35-4FA9-9F67-9BAA81FCB33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F718F9C8-3C35-4FA9-9F67-9BAA81FCB33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F718F9C8-3C35-4FA9-9F67-9BAA81FCB33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7AC721-BF0A-41E9-800F-B6B16FAED522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7AC721-BF0A-41E9-800F-B6B16FAED522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7AC721-BF0A-41E9-800F-B6B16FAED522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7AC721-BF0A-41E9-800F-B6B16FAED522}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
